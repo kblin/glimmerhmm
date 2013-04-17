@@ -1,0 +1,4 @@
+*.o
+*.swp
+train
+trained_dir
