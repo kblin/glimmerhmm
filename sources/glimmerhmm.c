@@ -49,7 +49,7 @@ int main  (int argc, char * argv [])
 
   // ---------------------------- OPTIONS ------------------------------
 
-  if  (argc < 2) {
+  if  (argc < 3) {
     fprintf (stderr,
 	     "USAGE:  %s <genome1-file> <training-dir-for-genome1> [options] \n",
 	     argv [0]);
